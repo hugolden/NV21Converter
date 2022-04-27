@@ -28,4 +28,4 @@ def convert(input, output):
 
 
 if __name__ == '__main__':
-    convert('C:\\Users\\Hu Sichao\\Pictures\\zelda.jpg','C:\\Users\\Hu Sichao\\Pictures\\out.yuv')
+    convert('zelda.jpg','out.nv21')
